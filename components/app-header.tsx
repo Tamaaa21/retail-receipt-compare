@@ -30,8 +30,8 @@ export function AppHeader() {
             <Image
               src="/placeholder-logo.svg"
               alt="Retail Nota Compare"
-              width={32}
-              height={32}
+              width={82}
+              height={82}
               className="rounded-sm"
               priority
             />

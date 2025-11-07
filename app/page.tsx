@@ -64,7 +64,7 @@ export default function HomePage() {
       <section className="relative bg-gradient-to-br from-primary/5 via-background to-secondary/5">
         <div className="mx-auto max-w-5xl px-4 py-12 space-y-6">
           <div className="text-center space-y-4">
-            <h1 className="text-4xl font-bold tracking-tight text-balance">
+            <h1 className="text-4xl font-bold tracking-tight text-balance mt-40">
               Bandingkan Harga Nota Retail dengan Mudah
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
